@@ -4,12 +4,12 @@ body {
 
 @font-face {
     font-family: 'Poppins Regular';
-    src: url(fonts/poppins/Poppins-Regular.otf)
+    src: url(fonts/poppins/Poppins-Regular.otf);
   }
 
   @font-face {
     font-family: 'Poppins Bold';
-    src: url(fonts/poppins/Poppins-Bold.otf)
+    src: url(fonts/poppins/Poppins-Bold.otf);
   }
 
 nav {
